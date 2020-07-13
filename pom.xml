@@ -12,6 +12,7 @@
     <module>eurekaServer</module>
     <module>eurekaClientUserService</module>
     <module>eurekaClientArticleService</module>
+    <module>ribbon_native_demo</module>
   </modules>
 
   <name>springCloudTest</name>
